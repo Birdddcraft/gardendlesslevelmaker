@@ -1,4 +1,6 @@
 
+//下载后使用notepad++打开
+
 {示例关卡
 	{
 	"#comment": "By Iris",
